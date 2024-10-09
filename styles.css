@@ -52,8 +52,7 @@
 
 .hero__section_logo {
     width: 200px;
-    /* height: 100px; */
-    /* height: auto; */
+    
 }
 
 .hero__section_title {
@@ -141,10 +140,6 @@
     }
 }
 
-/* .container{
-    margin: 3rem auto;
-    width: 90%;
-    } */
 
 .container__we_offer {
     margin: 3rem auto;
@@ -159,10 +154,10 @@
 .we__offer_card {
     border-radius: 10px;
     width: 300px;
-    /* background-color: aqua; */
+    
     overflow: hidden;
     border: 1px solid gray;
-    /* Animations not working */
+
     transition: all 0.4s ease;
 }
 
@@ -243,7 +238,7 @@
     background-image: url('./images/collection3.jpg');
 }
 
-/* Shift + Alt + f */
+
 
 .card4 {
     background-image: url('./images/collection4.jpg');
@@ -261,7 +256,7 @@
         rgba(0, 0 ,0, 0.8) 0%,
         rgba(0, 0 ,0, 0.05) 50%,
         rgba(0, 0 ,0, 0.05) 85%
-        /* rgba(0, 0, 0, 0)100% */
+        
 
     );
     z-index: 5;
@@ -282,16 +277,12 @@
     letter-spacing: 0.5px;
 }
 
-/* .collections h1{
-    margin: auto;
-} */
-
 .get__the_app{
     display: flex;
     align-items: center;
     justify-content: center;
     background-color: rgb(255, 251, 247);
-    /* background-color: aqua; */
+  
     width: 100%;
     padding: 3rem 6rem;
 }
@@ -379,11 +370,6 @@
     border-radius: 5px;
     cursor: pointer;
 }
-
-/* button:hover{
-    cursor: pointer;
-} */
-
 .right .download__app_container{
     display: flex;
     flex-direction: column;
@@ -506,9 +492,7 @@
     width: 25px;
     height: 25px;
     border-radius: 30px;
-    /* display: flex; */
-    /* justify-content: center;
-    align-items: center; */
+  
     cursor: pointer;
 }
 .social__links_container button i{
